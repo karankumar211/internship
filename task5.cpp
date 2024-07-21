@@ -1,3 +1,6 @@
+/*Define a function with parameters
+ Call the function with arguments
+ Return values from a function and use them in your program*/
 #include<iostream>
 using namespace std;
 // define a function with parameters

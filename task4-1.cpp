@@ -1,3 +1,6 @@
+/*Write for loops to iterate over a range
+ Write while loops to repeat actions until a condition is met
+ Create a simple program using both types of loops*/
 #include<iostream>
 using namespace std;
 int main(){

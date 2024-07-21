@@ -1,3 +1,6 @@
+/*Learn about int, float, char, double, and bool
+ Declare and initialize variables of each type
+ Print variable values using cout*/
 #include<iostream>
 #include<string>
 using namespace std; 

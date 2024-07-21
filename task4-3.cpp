@@ -1,3 +1,4 @@
+/* Program to ask for a name until the user enters END. Print the name each time. When you are done, print "I am done"*/
 #include <iostream>
 #include <string>
 

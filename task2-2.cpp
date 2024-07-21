@@ -1,3 +1,4 @@
+/* Program to calculate the area of a circle using the formula : (3.14)r2*/
 #include<iostream>
 using namespace std;
 int main (){

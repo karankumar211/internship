@@ -1,3 +1,4 @@
+/*  Program to input angles of a triangle and check whether triangle is valid or not*/
 #include<iostream>
 using namespace std;
 void check(int a, int b, int c){

@@ -1,3 +1,6 @@
+/*  Write if-else statements to compare variables
+ Use comparison and logical operators
+ Create a simple program that makes decisions based on user input*/
 #include<iostream>
 using namespace std;
 int main(){

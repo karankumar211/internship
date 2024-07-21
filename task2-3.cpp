@@ -1,3 +1,4 @@
+/* Program to first find the average of 5 subjects and then the percentage*/
 #include<iostream>
 using namespace std;
 int main(){
